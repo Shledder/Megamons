@@ -11,7 +11,7 @@ exports.BattleFormatsData = {
 		tier: "LC"
 	},
 	ivysaur: {
-		viableMoves: {"sleeppowder":1,"gigadrain":1,"hiddenpowerfire":1,"hiddenpowerice":1,"sludgebomb":1,"powerwhip":1,"leechseed":1,"synthesis":1},
+		viableMoves: {"sleeppowder":1,"gigadrain":1,"hiddenpowerfire":1,"hiddenpowerice":1,"sludgebomb":1,"powerwhip":1,"leechseed":1,"synthesis":1,"megapunch":1},
 		viableDoublesMoves: {"sleeppowder":1,"gigadrain":1,"hiddenpowerfire":1,"hiddenpowerice":1,"sludgebomb":1,"powerwhip":1,"protect":1},
 		tier: "NFE"
 	},
@@ -101,7 +101,7 @@ exports.BattleFormatsData = {
 		tier: "Limbo"
 	},
 	butterfreemega: {
-		requiredItem: "Butterfreenite"
+		requiredItem: "Blastoisinite"
 	},
 	weedle: {
 		viableMoves: {"bugbite":1,"stringshot":1,"poisonsting":1,"electroweb":1},

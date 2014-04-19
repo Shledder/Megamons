@@ -23,7 +23,7 @@ exports.BattleItems = {
 			if (item.megaEvolves === source.baseTemplate.baseSpecies) return false;
 			return true;
 		},
-		num: 677,
+		num: 0,
 		gen: 6,
 		desc: "Mega-evolves Absol."
 	},
@@ -504,7 +504,7 @@ exports.BattleItems = {
 			if (item.megaEvolves === source.baseTemplate.baseSpecies) return false;
 			return true;
 		},
-		num: -6,
+		num: 677,
 		gen: 6,
 		desc: "Mega-evolves Butterfree."
 	},
